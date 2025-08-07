@@ -21,15 +21,25 @@ Driver Sathi is an intelligent real-time monitoring tool that helps detect drive
 - Responsive UI with clean visuals and demo section  
 - Downloadable, offline-run enabled through a single `.exe` installer
 
-## 🎥 Video and Screenshots
-### 🔗 Teaser Demo  
-Watch a short teaser of Driver Sathi in action: [Teaser Video (YouTube)](https://example.com)  
+## Screenshots  
 
 ### 🖼️ Screenshots  
 **Detection Alert State**  
-![detection](assets/screenshot-detection.png)  
+<img width="1103" height="621" alt="image" src="https://github.com/user-attachments/assets/69360965-0566-4bf8-bbfe-a617e9349e3b" />
+
+**Detection Drowsy State** 
+<img width="950" height="536" alt="image" src="https://github.com/user-attachments/assets/de15f0a2-ba77-4b96-8de8-4c97e7ce6efd" />
+
+**Detection Sleeping State** 
+<img width="950" height="536" alt="image" src="https://github.com/user-attachments/assets/fabc4a03-6bd7-4aad-af17-d41827fae09e" />
+
+
+
 **Landing Page**  
-![landing](assets/screenshot-landing.png)  
+<img width="1374" height="776" alt="Landing page" src="https://github.com/user-attachments/assets/de0b576c-ac01-44d4-b5a0-3bf4da3fe029" />
+<img width="1374" height="776" alt="Landing page 2" src="https://github.com/user-attachments/assets/ae2e4de6-8370-4347-a44b-2349725f2dd6" />
+
+ 
 
 ## ⚙️ How it Works
 Driver Sathi consists of three integrated components:
