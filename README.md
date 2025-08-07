@@ -60,8 +60,8 @@ Driver Sathi consists of three integrated components:
 
 ### 💻 Local Development
 ```bash
-git clone https://github.com/yourusername/driver-sathi.git
-cd driver-sathi
+git clone https://github.com/yourusername/Driver-Sathi.git
+cd Driver-Sathi
 cd app/backend && npm install
 cd ../frontend && npm install && npm run build
 cd ../backend && node index.js
@@ -87,4 +87,4 @@ Bundle Python, Node backend, frontend build, and use `pkg` to create `.exe`.
 ## 👥 About Driver Sathi
 Created as a minor project to showcase computer vision + full-stack integration for real-world applications.
 
-> Built with ❤️ to keep roads safer and drivers more alert.
+> Built with ❤️ by **Neeraj Jalodiya** to keep roads safer and drivers more alert.
