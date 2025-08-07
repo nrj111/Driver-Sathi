@@ -60,7 +60,7 @@ Driver Sathi consists of three integrated components:
 
 ### 💻 Local Development
 ```bash
-git clone https://github.com/yourusername/Driver-Sathi.git
+git clone https://github.com/nrj111/Driver-Sathi.git
 cd Driver-Sathi
 cd app/backend && npm install
 cd ../frontend && npm install && npm run build
